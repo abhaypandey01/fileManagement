@@ -87,7 +87,6 @@ class FileManager
                 if(i==-1)
                 {
                     break;
-                    
                 }
                 emt=emt+(char)i;
             }
